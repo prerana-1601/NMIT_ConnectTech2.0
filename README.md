@@ -6,9 +6,11 @@ agri-block_1.ino -> the arduino file which contains the interconnection of the h
 iot_blockchain_a.apk -> application that helps display the data across the supply chain on the front end and connects the data to the firebase real time database on the backend
 
 updated_app.apk -> In this version
-                    -app is made more user friendly by incorporating images for selection which removes language barriers
-                    -updation of time as well as location by a button's click instead of typing the values
-                    -Addition of transport page which plays an important role in transportation
+-app is made more user friendly by incorporating images for selection which removes language barriers
+                    
+-updation of time as well as location by a button's click instead of typing the values
+                    
+-Addition of transport page which plays an important role in transportation
 
 
 Our solution aims to build a IoT-Enabled Crop Monitoring system for transparency and traceability of the yields in the organic food supply chain
